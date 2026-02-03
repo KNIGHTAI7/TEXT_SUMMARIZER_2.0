@@ -2,8 +2,10 @@
 
 Live Demo: https://textsummarizer20-fvwwvwzdutuvshgtwmnyxx.streamlit.app/
 
+
 🚀 Overview
 AI-Powered Text Summarization 2.0 is an advanced NLP application that moves beyond simple statistical methods to provide deep-sequence analysis. By integrating Recurrent Neural Networks (RNNs) and a custom preprocessing engine, the system delivers high-precision domain classification, noise-free text cleaning, and context-aware summaries.
+
 
 ✨ Key Features
 RNN-Driven Classification: Utilizes an LSTM (Long Short-Term Memory) network to understand the sequential context of text, providing more accurate domain predictions than traditional models.
@@ -16,6 +18,7 @@ Strict Summarization: Powered by the TextRank algorithm, ensuring a concise and 
 
 Minimalist Dark UI: A professional, developer-centric interface built with Streamlit, featuring a high-contrast dark theme and JetBrains Mono typography.
 
+
 🛠️ Technical Stack
 Deep Learning: TensorFlow / Keras (LSTM Architecture)
 
@@ -24,6 +27,7 @@ NLP Engine: Sumy (TextRank), NLTK
 Frontend: Streamlit
 
 Data Processing: Regex, Scikit-learn (Label Encoding), NumPy, Pickle
+
 
 📊 Pipeline Logic
 Ingestion & Cleaning: Raw text is passed through a multi-stage Regex filter to remove structural noise.
