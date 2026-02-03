@@ -1,13 +1,5 @@
 streamlit
-pandas
+tensorflow
 numpy
-scipy
-scikit-learn
-matplotlib
-seaborn
-joblib
-sumy
 nltk
-spacy
-transformers
-
+sumy
