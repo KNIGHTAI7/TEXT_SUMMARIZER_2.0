@@ -40,8 +40,8 @@ Extractive Summarization: The TextRank algorithm ranks sentence importance to ex
 
 Title Synthesis: The top-ranked sentence is transformed into a clean, capitalized analytical title.
 
-📂 Project Structure
-Plaintext
+📂 Project Structure Plaintext
+
 ├── app.py                # Main Streamlit application & UI
 
 ├── rnn_domain_model.h5   # Trained LSTM model weights
