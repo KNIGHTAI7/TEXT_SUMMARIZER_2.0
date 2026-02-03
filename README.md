@@ -1,5 +1,5 @@
 📑AI-Powered Text Summarization 2.0
-Live Demo: textsummarizer20-fvwwvwzdutuvshgtwmnyxx.streamlit.app
+Live Demo: https://textsummarizer20-fvwwvwzdutuvshgtwmnyxx.streamlit.app/
 
 🚀 Overview
 AI-Powered Text Summarization 2.0 is an advanced NLP application that moves beyond simple statistical methods to provide deep-sequence analysis. By integrating Recurrent Neural Networks (RNNs) and a custom preprocessing engine, the system delivers high-precision domain classification, noise-free text cleaning, and context-aware summaries.
