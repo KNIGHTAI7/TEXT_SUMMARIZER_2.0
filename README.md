@@ -43,11 +43,7 @@ Title Synthesis: The top-ranked sentence is transformed into a clean, capitalize
 📂 Project Structure Plaintext
 
 ├── app.py                # Main Streamlit application & UI
-
 ├── rnn_domain_model.h5   # Trained LSTM model weights
-
 ├── assets.pkl            # Pre-processing assets (Tokenizer/LabelEncoder)
-
 ├── requirements.txt      # Environment dependencies
-
 └── README.md             # Project documentation
