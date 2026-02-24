@@ -91,9 +91,11 @@ with col2:
         summarizer = TextRankSummarizer()
         summary_nodes = summarizer(parser.document, 6) # Request 6 for 5-6 sentence depth
         summary_text = " ".join(str(s) for s in summary_nodes)
+
         
         # 4. Analytical Title
         analytical_title = generate_analytical_title(summary_nodes)
+
 
         # 🚀 OUTPUT SEQUENCE
         st.markdown("<div class='output-section'>", unsafe_allow_html=True)
